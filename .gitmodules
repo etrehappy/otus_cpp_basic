@@ -10,3 +10,6 @@
 [submodule "otus_cpp_basic_hw4"]
 	path = otus_cpp_basic_hw4
 	url = https://github.com/etrehappy/otus_cpp_basic_hw4
+[submodule "otus_cpp_basic_hw5"]
+	path = otus_cpp_basic_hw5
+	url = https://github.com/etrehappy/otus_cpp_basic_hw5
