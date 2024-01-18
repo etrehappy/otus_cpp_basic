@@ -16,3 +16,6 @@
 [submodule "otus_cpp_basic_hw6"]
 	path = otus_cpp_basic_hw6
 	url = https://github.com/etrehappy/otus_cpp_basic_hw6
+[submodule "otus_cpp_basic_hw7"]
+	path = otus_cpp_basic_hw7
+	url = https://github.com/etrehappy/otus_cpp_basic_hw7
