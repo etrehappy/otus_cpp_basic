@@ -8,10 +8,6 @@
 	path = otus_cpp_basic_hw3
 	url = https://github.com/etrehappy/otus_cpp_basic_hw3
 	branch = main
-[submodule "otus_cpp_basic_hw4"]
-	path = otus_cpp_basic_hw4
-	url = https://github.com/etrehappy/otus_cpp_basic_hw4
-	branch = main
 [submodule "otus_cpp_basic_hw5"]
 	path = otus_cpp_basic_hw5
 	url = https://github.com/etrehappy/otus_cpp_basic_hw5
